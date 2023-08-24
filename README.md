@@ -14,20 +14,21 @@ Link do site: <https://sistemas.tce.pe.gov.br/tomeconta/TelaInicial!principal>
     * Propósito
     * Escopo
     * Público-alvo
-
+  
 2. *Estrutura do Script*
-    *Bibliotecas e Importações
-    *Configurações e Definições
-    *Funções de Extração de Dados
-    *Função Principal de Extração
-    *Loop Principal e Execução
-
-4. *Funcionalidade do Script*
-
-Pesquisa e Entrada de CNPJ
-Navegação pelas Seções do Site
-Extração de Dados e Scraping
-Tratamento de Erros
+    * Bibliotecas e Importações
+    * Configurações e Definiçõe
+    * Funções de Extração de Dados
+    * Função Principal de Extração
+    * Loop Principal e Execução
+  
+3. *Funcionalidade do Script*
+    * Pesquisa e Entrada de CNPJ
+    * Navegação pelas Seções do Site
+    * Extração de Dados e Scraping
+    * Tratamento de Erros
+  
+   
 
 
 4. *Dependências*
