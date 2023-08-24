@@ -29,30 +29,26 @@ Link do site: <https://sistemas.tce.pe.gov.br/tomeconta/TelaInicial!principal>
     * Tratamento de Erros
   
    
-
-
 4. *Dependências*
-
-Selenium
-PyAutoGUI
-pymongo
-Outras bibliotecas relevantes
-
-
+    * Selenium
+    * PyAutoGUI
+    * Pymongo
+    * Outras bibliotecas relevantes
+  
 5. *Uso*
-
-Pré-requisitos
-Instalação das Dependências
-Execução do Script
-Saída
+    * Pré-requisitos
+    * Instalação das Dependências
+    * Execução do Script
+    * Saída
 
 6. *Manutenção e Considerações*
-
-Lidando com Mudanças no Site
-Tratamento de Erros e Registros
-Escalabilidade
+    * Lidando com Mudanças no Site
+    * Tratamento de Erros e Registros
+    * Escalabilidade
 
 7. *Conclusão*
+   * Resumo da Funcionalidade do Script
+   * Agradecimentos
 
-Resumo da Funcionalidade do Script
-Agradecimentos
+
+
