@@ -59,7 +59,6 @@ Escopo
 O script concentra-se na raspagem de dados relacionados a várias categorias usando a biblioteca Selenium. Ele suporta a extração de informações de diferentes seções do site, como EmpenhosMunicipais, Licitacoes, Contrato, etc.
 
 Público-alvo
-Esta documentação destina-se a desenvolvedores, analistas de dados e indivíduos envolvidos na manutenção ou uso do script de RPA para extração e armazenamento de dados.
-
+Esta documentação destina-se a
 
 
