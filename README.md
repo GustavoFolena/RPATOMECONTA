@@ -14,37 +14,44 @@ Link do site: <https://sistemas.tce.pe.gov.br/tomeconta/TelaInicial!principal>
     * Propósito
     * Escopo
     * Público-alvo
-Estrutura do Script
 
-Bibliotecas e Importações
-Configurações e Definições
-Funções de Extração de Dados
-Função Principal de Extração
-Loop Principal e Execução
-Funcionalidade do Script
+2. *Estrutura do Script*
+    *Bibliotecas e Importações
+    *Configurações e Definições
+    *Funções de Extração de Dados
+    *Função Principal de Extração
+    *Loop Principal e Execução
+
+4. *Funcionalidade do Script*
 
 Pesquisa e Entrada de CNPJ
 Navegação pelas Seções do Site
 Extração de Dados e Scraping
 Tratamento de Erros
-Dependências
+
+
+4. *Dependências*
 
 Selenium
 PyAutoGUI
 pymongo
 Outras bibliotecas relevantes
-Uso
+
+
+5. *Uso*
 
 Pré-requisitos
 Instalação das Dependências
 Execução do Script
 Saída
-Manutenção e Considerações
+
+6. *Manutenção e Considerações*
 
 Lidando com Mudanças no Site
 Tratamento de Erros e Registros
 Escalabilidade
-Conclusão
+
+7. *Conclusão*
 
 Resumo da Funcionalidade do Script
 Agradecimentos
