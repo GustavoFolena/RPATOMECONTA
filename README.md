@@ -49,6 +49,17 @@ Link do site: <https://sistemas.tce.pe.gov.br/tomeconta/TelaInicial!principal>
 7. *Conclusão*
    * Resumo da Funcionalidade do Script
    * Agradecimentos
+  
+
+## Introdução
+Propósito
+O propósito deste script de RPA é automatizar o processo de coleta de dados de um site específico e armazená-los em um banco de dados MongoDB. O script visa agilizar a obtenção de dados para análise e geração de relatórios.
+
+Escopo
+O script concentra-se na raspagem de dados relacionados a várias categorias usando a biblioteca Selenium. Ele suporta a extração de informações de diferentes seções do site, como EmpenhosMunicipais, Licitacoes, Contrato, etc.
+
+Público-alvo
+Esta documentação destina-se a desenvolvedores, analistas de dados e indivíduos envolvidos na manutenção ou uso do script de RPA para extração e armazenamento de dados.
 
 
 
